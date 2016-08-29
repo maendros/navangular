@@ -1,0 +1,18 @@
+{
+  "name": "formang",
+  "version": "1.0.0",
+  "description": "form with angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form",
+    "angular"
+  ],
+  "author": "Paschalis Valtsianis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
